@@ -1,0 +1,18 @@
+com/reactnative/photoview/PhotoViewPackage.java
+ com.reactnative.photoview.PhotoViewPackage
+com/reactnative/photoview/PhotoView.java
+ com.reactnative.photoview.PhotoView
+ com.reactnative.photoview.PhotoView$1
+ com.reactnative.photoview.PhotoView$2
+ com.reactnative.photoview.PhotoView$3
+ com.reactnative.photoview.PhotoView$4
+ com.reactnative.photoview.PhotoView$5
+com/reactnative/photoview/BuildConfig.java
+ com.reactnative.photoview.BuildConfig
+com/reactnative/photoview/ResourceDrawableIdHelper.java
+ com.reactnative.photoview.ResourceDrawableIdHelper
+com/reactnative/photoview/PhotoViewManager.java
+ com.reactnative.photoview.PhotoViewManager
+com/reactnative/photoview/ImageEvent.java
+ com.reactnative.photoview.ImageEvent
+ com.reactnative.photoview.ImageEvent$ImageEventType
